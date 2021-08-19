@@ -1,0 +1,23 @@
+header {
+  background-color: black;
+}
+.menu {
+  color: white;
+}
+td, a {
+  text-transform: uppercase;
+}
+.div_menu {
+  margin-bottom: 1rem;
+}
+.slider-div {
+  margin-left:23px;
+}
+.slider {
+  width: 725px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
